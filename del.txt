@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This file will not get deleted.
 Bet on it.
+=======
+it will get deleted. I know.
+>>>>>>> Dev
